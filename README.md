@@ -1,0 +1,1 @@
+This code loads a spam email dataset, encodes labels, and converts text into numerical features using TF-IDF. An Artificial Neural Network is trained to classify emails as spam or not spam, evaluates accuracy, and predicts whether a user-entered email is spam or good.
